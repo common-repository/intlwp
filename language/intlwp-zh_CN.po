@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-01-06 09:11+0800\n"
+"Last-Translator: luoyang <xgren@qq.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "IntlWP"
+msgstr "中文域名"
+
+msgid "IntlWP Config Page"
+msgstr "IntlWP设置页"
+
+msgid "DomainName Config"
+msgstr "域名设置"
+
+msgid "Internationalized Sub-DomainName and Path"
+msgstr "中文二级域名及中文路径"
+
+msgid "Enable Internationalized Sub-DomainName or Path for my WordPress Multiple Site"
+msgstr "为我的博客群开启中文二级域名或者中文路径功能"
+
+msgid "Restriction Config"
+msgstr "限制设置"
+
+msgid "Restriction Length"
+msgstr "长度限制"
+
+msgid "Characters"
+msgstr "个汉字"
+
+msgid "Please input number"
+msgstr "请输入数字"
+
+msgid "No WordPress multisite installed!"
+msgstr "您还没有安装WordPress站点群!"
+
+msgid "Please visite WordPress MU document for more help"
+msgstr "请查看WordPress帮助文档"
+
+msgid "Only Chinese, lowercase letters (a-z) and numbers are allowed."
+msgstr "只允许使用汉字，小写英文字母和数字"
+
+msgid "Must be %1$d - %2$d characters."
+msgstr "只允许使用%1$d ~ %2$d 个汉字."

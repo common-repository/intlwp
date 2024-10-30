@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-01-08 10:33+0800\n"
+"Last-Translator: luoyang <xgren@qq.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "IntlWP"
+msgstr "IntlWP"
+
+msgid "IntlWP Config Page"
+msgstr "IntlWP管理"
+
+msgid "DomainName Config"
+msgstr "ドメイン名管理"
+
+msgid "Internationalized Sub-DomainName and Path"
+msgstr "サブドメイン名,ディレクトリ"
+
+msgid "Enable Internationalized Sub-DomainName or Path for my WordPress Multiple Site"
+msgstr "私のワードプレスの複数のサイトのための国際化サブドメイン名またはパスを有効にする"
+
+msgid "Restriction Config"
+msgstr "設定された制限"
+
+msgid "Restriction Length"
+msgstr "長さ"
+
+msgid "Characters"
+msgstr "文字"
+
+msgid "Please input number"
+msgstr "数を入力してください"
+
+msgid "No WordPress multisite installed!"
+msgstr "あなたは、WordPressのサイトグループをインストールしていない！"
+
+msgid "Please visite WordPress MU document for more help"
+msgstr "ヘルプドキュメントのWordPressを参照してください"
+
+msgid "Only Chinese, lowercase letters (a-z) and numbers are allowed."
+msgstr "唯一の日本語、小文字、数字で"
+
+msgid "Must be %1$d - %2$d characters."
+msgstr "唯一の%1$d ~ %2$d 日本語."
+
